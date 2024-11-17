@@ -1,26 +1,32 @@
 ## 🌲 **Hello, World! I'm Forest Jang.** 👋  
-**Welcome to my GitHub space, where innovation meets passion!**  
+Welcome to my GitHub space, where **innovation meets passion!**  
 
 ---
 
-### 🚀 **About Me**  
-- 🔭 **Currently**: Working at **HY Robotics, Corp.** 🦾  
-- 🎓 **Learning**: Pursuing a degree in **Robotics & Convergence** at **Hanyang University** 🏫  
-  *(with plans to graduate one year early in **February 2025**)*  
-- 🌟 **Interests**:  
+### 🚀 About Me  
+- 🔭 **Currently:**  
+  Working at **HY Robotics** in the **Control Development Team** of the **Research Division** 💻  
+- 🎓 **Learning:**  
+  Pursuing a degree in **Robotics & Convergence** at **Hanyang University** 🏫  
+  *(Graduating one year early in **February 2025**)*  
+- 🌟 **Interests:**  
   Passionate about **frontend development**, **deep learning**, **algorithms**, and **robotics**!  
 
 ---
 
-### 🎯 **Goals**  
-- 🧩 **Daily Challenge**: Solving one algorithm problem daily on **Baekjoon** to refine my problem-solving skills.  
+### 🎯 Goals  
+- 🧩 **Daily Challenge:**  
+  Solving one algorithm problem daily on **Baekjoon** to refine my problem-solving skills.  
 
 ---
 
-### 🤝 **Let's Connect**  
-- 📨 **Contact Me**: [contactbizjang@gmail.com](mailto:contactbizjang@gmail.com)  
-- 💡 **Collaboration**: Open to collaborations that push boundaries and create meaningful impact.  
-- ⏰ **Response Time**: I typically respond to messages by **9 AM (GMT+9)** on weekdays.  
+### 🤝 Let's Connect  
+- 📨 **Contact Me:**  
+  [contactbizjang@gmail.com](mailto:contactbizjang@gmail.com)  
+- 💡 **Collaboration:**  
+  Open to collaborations that push boundaries and create meaningful impact.  
+- ⏰ **Response Time:**  
+  I typically respond to messages by **9 AM (GMT+9)** on weekdays.  
 
 ---
 
