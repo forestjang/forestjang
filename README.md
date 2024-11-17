@@ -1,4 +1,4 @@
-##🌲 Hello, World! I'm Forest Jang. 👋
+## 🌲 Hello, World! I'm Forest Jang. 👋
 Welcome to my GitHub space, where innovation meets passion!
 
 🚀 About Me
@@ -12,6 +12,7 @@ Welcome to my GitHub space, where innovation meets passion!
 When I'm not busy designing robots or coding, you might find me exploring nature 🌳 or diving deep into the latest tech trends.
 
 Stay curious, stay inspired! 🌍
+
 <!--## Hi I'm Forest Jang. 👋
 
 **forestjang/forestjang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
