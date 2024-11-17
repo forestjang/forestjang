@@ -9,7 +9,8 @@ Welcome to my GitHub space, where innovation meets passion!
 📨 Contact me: contactbizjang@gmail.com
 💡 Open to collaborations that push boundaries and create meaningful impact.
 ⚡ Fun Fact
-When I'm not busy designing robots or coding, you might find me exploring nature 🌳 or diving deep into the latest tech trends.
+When I'm not busy designing robots or coding,
+you might find me exploring nature 🌳 or diving deep into the latest tech trends.
 
 Stay curious, stay inspired! 🌍
 
