@@ -5,7 +5,7 @@ Welcome to my GitHub space, where **innovation meets passion!**
 
 ### 🚀 About Me  
 - 🔭 **Currently:**  
-  Working at **HY Robotics, Corp** in the **Control Development Team** of the **Research Division** 💻  
+  Working at **HY Robotics, Corp.** in the **Control Development Team** of the **Research Division** 💻  
 - 🎓 **Learning:**  
   Pursuing a degree in **Robotics & Convergence** at **Hanyang University** 🏫  
   *(Graduating one year early in **February 2025**)*  
