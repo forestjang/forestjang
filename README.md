@@ -2,28 +2,24 @@
 Welcome to my GitHub space, where **innovation meets passion!**  
 
 <details>
-  <summary>Click to view more about me!</summary>
+  <summary>📖 **Click to learn more about me!**</summary>
 
-  ### 🚀 About Me  
+  ### 🚀 **About Me**  
   - 🔭 **Currently:**  
-    Working at **one of the robot solutions company** in the **Control Development Team** of the **Research Division** 💻  
+    Working at **one of the leading robot solutions companies** in the **Control Development Team** of the **Research Division** 💻  
   - 🎓 **Learning:**  
-    Pursuing a degree in **Hanyang University, College of Engineering** 🏫  
+    Pursuing my studies at **Hanyang University, College of Engineering** 🏫  
     *(Graduating one year early in **February 2025**)*  
   - 🌟 **Interests:**  
     Passionate about **frontend development**, **deep learning**, **algorithms**, and **robotics**!  
 
-  ### 🎯 Goals  
-  - 🧩 **Daily Challenge:**  
-    Solving one algorithm problem daily on **Baekjoon** to refine my problem-solving skills.  
+  ### 🎯 **Goals**  
+  - 🧩 Solving one algorithm problem daily on **Baekjoon** to refine and sharpen my problem-solving skills.  
 
-  ### 🤝 Let's Connect  
-  - 📨 **Contact Me:**  
-    [contactbizjang@gmail.com](mailto:contactbizjang@gmail.com)  
-  - 💡 **Collaboration:**  
-    Open to collaborations that push boundaries and create meaningful impact.  
-  - ⏰ **Response Time:**  
-    I typically respond to messages by **9 AM (GMT+9)** on weekdays.  
+  ### 🤝 **Let's Connect**  
+  - 📨 **Email:** [contactbizjang@gmail.com](mailto:contactbizjang@gmail.com)  
+  - 💡 **Collaboration:** Open to innovative collaborations that push boundaries and create meaningful impact.  
+  - ⏰ **Availability:** Typically respond to messages by **9 AM (GMT+9)** on weekdays.  
 
 </details>
 
