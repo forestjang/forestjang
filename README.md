@@ -1,18 +1,31 @@
-## 🌲 Hello, World! I'm Forest Jang. 👋
-Welcome to my GitHub space, where innovation meets passion!
+## 🌲 **Hello, World! I'm Forest Jang.** 👋  
+**Welcome to my GitHub space, where innovation meets passion!**  
 
-🚀 About Me
-🔭 Currently: Working at HY Robotics, Corp. 🦾
-🎓 Learning: Pursuing a degree in Robotics & Convergence at Hanyang University 🏫
-🌟 Interests: Bridging the gap between technology and creativity, one robot at a time.
-🤝 Let's Connect
-📨 Contact me: contactbizjang@gmail.com
-💡 Open to collaborations that push boundaries and create meaningful impact.
-⚡ Fun Fact
-When I'm not busy designing robots or coding,
-you might find me exploring nature 🌳 or diving deep into the latest tech trends.
+---
 
-Stay curious, stay inspired! 🌍
+### 🚀 **About Me**  
+- 🔭 **Currently**: Working at **HY Robotics, Corp.** 🦾  
+- 🎓 **Learning**: Pursuing a degree in **Robotics & Convergence** at **Hanyang University** 🏫  
+  *(with plans to graduate one year early in **February 2025**)*  
+- 🌟 **Interests**:  
+  Passionate about **frontend development**, **deep learning**, **algorithms**, and **robotics**!  
+
+---
+
+### 🎯 **Goals**  
+- 🧩 **Daily Challenge**: Solving one algorithm problem daily on **Baekjoon** to refine my problem-solving skills.  
+
+---
+
+### 🤝 **Let's Connect**  
+- 📨 **Contact Me**: [contactbizjang@gmail.com](mailto:contactbizjang@gmail.com)  
+- 💡 **Collaboration**: Open to collaborations that push boundaries and create meaningful impact.  
+- ⏰ **Response Time**: I typically respond to messages by **9 AM (GMT+9)** on weekdays.  
+
+---
+
+### 🌟 **"Code is like a box of chocolates. You never know what you're gonna debug."**
+
 
 <!--## Hi I'm Forest Jang. 👋
 
