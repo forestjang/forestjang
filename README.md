@@ -24,7 +24,7 @@ Welcome to my GitHub space, where **innovation meets passion!**
     Working at **one of the leading robot solutions companies** in the **Control Development Team** of the **Research Division** 💻  
   - 🎓 **Learning:**  
     Pursuing my studies at **Hanyang University, College of Engineering** 🏫  
-    *(Graduating one year early in **February 2025**)*  
+    *(Graduating one year early in **February 2026**)*  
   - 🌟 **Interests:**  
     Passionate about **frontend development**, **deep learning**, **algorithms**, and **robotics**!  
 
