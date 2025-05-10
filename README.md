@@ -40,8 +40,6 @@ Welcome to my GitHub space, where **innovation meets passion!**
 
 ---
 
-### 🌟 **"Code is like a box of chocolates. You never know what you're gonna debug."**
-
 <!--## Hi I'm Forest Jang. 👋
 
 **forestjang/forestjang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
